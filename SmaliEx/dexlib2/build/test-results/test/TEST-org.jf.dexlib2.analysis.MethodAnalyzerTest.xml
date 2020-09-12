@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.analysis.MethodAnalyzerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:57" hostname="EladX220" time="0.095">
+  <properties/>
+  <testcase name="testInstanceOfNarrowingEqz_dalvik" classname="org.jf.dexlib2.analysis.MethodAnalyzerTest" time="0.059"/>
+  <testcase name="testInstanceOfNarrowingNez_dalvik" classname="org.jf.dexlib2.analysis.MethodAnalyzerTest" time="0.007"/>
+  <testcase name="testInstanceOfNarrowingAfterMove_art" classname="org.jf.dexlib2.analysis.MethodAnalyzerTest" time="0.012"/>
+  <testcase name="testInstanceOfNarrowingAfterMove_dalvik" classname="org.jf.dexlib2.analysis.MethodAnalyzerTest" time="0.005"/>
+  <testcase name="testInstanceOfNarrowingEqz_art" classname="org.jf.dexlib2.analysis.MethodAnalyzerTest" time="0.004"/>
+  <testcase name="testInstanceOfNarrowingNez_art" classname="org.jf.dexlib2.analysis.MethodAnalyzerTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

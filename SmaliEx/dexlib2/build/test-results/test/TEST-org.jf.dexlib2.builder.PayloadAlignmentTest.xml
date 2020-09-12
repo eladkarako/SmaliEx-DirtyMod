@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.builder.PayloadAlignmentTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:57" hostname="EladX220" time="0.006">
+  <properties/>
+  <testcase name="testPayloadAlignmentRemoveNopWithReferent" classname="org.jf.dexlib2.builder.PayloadAlignmentTest" time="0.0"/>
+  <testcase name="testPayloadAlignmentAddNopWithReferent" classname="org.jf.dexlib2.builder.PayloadAlignmentTest" time="0.0"/>
+  <testcase name="testPayloadAlignmentRemoveNop" classname="org.jf.dexlib2.builder.PayloadAlignmentTest" time="0.0"/>
+  <testcase name="testPayloadAlignmentAddNop" classname="org.jf.dexlib2.builder.PayloadAlignmentTest" time="0.001"/>
+  <testcase name="testPackedSwitchAlignment" classname="org.jf.dexlib2.builder.PayloadAlignmentTest" time="0.002"/>
+  <testcase name="testSparseSwitchAlignment" classname="org.jf.dexlib2.builder.PayloadAlignmentTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

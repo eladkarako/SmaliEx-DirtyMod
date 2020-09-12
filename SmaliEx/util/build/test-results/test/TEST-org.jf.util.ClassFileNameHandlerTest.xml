@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.util.ClassFileNameHandlerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:08:51" hostname="EladX220" time="0.151">
+  <properties/>
+  <testcase name="testIgnoringWindowsReservedFilenames" classname="org.jf.util.ClassFileNameHandlerTest" time="0.051"/>
+  <testcase name="test1ByteEncodings" classname="org.jf.util.ClassFileNameHandlerTest" time="0.033"/>
+  <testcase name="test2ByteEncodings" classname="org.jf.util.ClassFileNameHandlerTest" time="0.003"/>
+  <testcase name="test3ByteEncodings" classname="org.jf.util.ClassFileNameHandlerTest" time="0.003"/>
+  <testcase name="test4ByteEncodings" classname="org.jf.util.ClassFileNameHandlerTest" time="0.002"/>
+  <testcase name="testMultipleLongNames" classname="org.jf.util.ClassFileNameHandlerTest" time="0.033"/>
+  <testcase name="testBasicFunctionality" classname="org.jf.util.ClassFileNameHandlerTest" time="0.007"/>
+  <testcase name="testCaseInsensitiveFilesystem" classname="org.jf.util.ClassFileNameHandlerTest" time="0.002"/>
+  <testcase name="testCaseSensitiveFilesystem" classname="org.jf.util.ClassFileNameHandlerTest" time="0.002"/>
+  <testcase name="testWindowsReservedFilenames" classname="org.jf.util.ClassFileNameHandlerTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

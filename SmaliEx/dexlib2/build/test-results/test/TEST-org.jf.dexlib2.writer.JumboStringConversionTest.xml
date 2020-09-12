@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.writer.JumboStringConversionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:58" hostname="EladX220" time="2.654">
+  <properties/>
+  <testcase name="testJumboStringConversion_NonMethodBuilder" classname="org.jf.dexlib2.writer.JumboStringConversionTest" time="1.478"/>
+  <testcase name="testJumboStringConversion" classname="org.jf.dexlib2.writer.JumboStringConversionTest" time="1.176"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

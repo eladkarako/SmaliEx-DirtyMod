@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.writer.DexDataWriterTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:58" hostname="EladX220" time="0.034">
+  <properties/>
+  <testcase name="testWriteByteArrayWithLengthAndOffset" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.003"/>
+  <testcase name="testWriteByte" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.004"/>
+  <testcase name="testWriteLong" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.001"/>
+  <testcase name="testWriteInt" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testWriteShort" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testWriteUshort" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testWriteUbyte" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.001"/>
+  <testcase name="testWriteString" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testAlign" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testWriteByteArray" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.002"/>
+  <testcase name="testWriteShortOutOfBounds" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.001"/>
+  <testcase name="testWriteShortOutOfBounds2" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testWriteUshortOutOfBounds" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testWriteUshortOutOfBounds2" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testWriteUbyteOutOfBounds" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testWriteUbyteOutOfBounds2" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.001"/>
+  <testcase name="testWriteEncodedValueHeader" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.0"/>
+  <testcase name="testWriteEncodedInt" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.001"/>
+  <testcase name="testWriteEncodedUint" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.001"/>
+  <testcase name="testWriteEncodedLong" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.009"/>
+  <testcase name="testWriteRightZeroExtendedInt" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.002"/>
+  <testcase name="testWriteRightZeroExtendedLong" classname="org.jf.dexlib2.writer.DexDataWriterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

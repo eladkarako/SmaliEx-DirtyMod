@@ -1,0 +1,6 @@
+org.jf.baksmali
+org.jf.baksmali.Adaptors
+org.jf.baksmali.Adaptors.Debug
+org.jf.baksmali.Adaptors.EncodedValue
+org.jf.baksmali.Adaptors.Format
+org.jf.baksmali.Renderers

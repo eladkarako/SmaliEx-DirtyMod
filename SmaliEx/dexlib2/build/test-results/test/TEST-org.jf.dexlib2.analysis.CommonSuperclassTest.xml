@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.analysis.CommonSuperclassTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:56" hostname="EladX220" time="0.189">
+  <properties/>
+  <testcase name="testGetCommonSuperclass_interfaces" classname="org.jf.dexlib2.analysis.CommonSuperclassTest" time="0.154"/>
+  <testcase name="testGetCommonSuperclass" classname="org.jf.dexlib2.analysis.CommonSuperclassTest" time="0.021"/>
+  <testcase name="testGetCommonSuperclass_arrays" classname="org.jf.dexlib2.analysis.CommonSuperclassTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

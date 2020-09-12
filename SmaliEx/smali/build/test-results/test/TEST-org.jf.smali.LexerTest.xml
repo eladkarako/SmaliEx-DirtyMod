@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.smali.LexerTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:25" hostname="EladX220" time="0.168">
+  <properties/>
+  <testcase name="IntegerLiteralTest" classname="org.jf.smali.LexerTest" time="0.019"/>
+  <testcase name="StringLiteralTest" classname="org.jf.smali.LexerTest" time="0.034"/>
+  <testcase name="TypeAndIdentifierTest" classname="org.jf.smali.LexerTest" time="0.006"/>
+  <testcase name="RealSmaliFileTest" classname="org.jf.smali.LexerTest" time="0.04"/>
+  <testcase name="DirectiveTest" classname="org.jf.smali.LexerTest" time="0.012"/>
+  <testcase name="ByteLiteralTest" classname="org.jf.smali.LexerTest" time="0.009"/>
+  <testcase name="ShortLiteralTest" classname="org.jf.smali.LexerTest" time="0.003"/>
+  <testcase name="LongLiteralTest" classname="org.jf.smali.LexerTest" time="0.01"/>
+  <testcase name="FloatLiteralTest" classname="org.jf.smali.LexerTest" time="0.005"/>
+  <testcase name="CharLiteralTest" classname="org.jf.smali.LexerTest" time="0.006"/>
+  <testcase name="MiscTest" classname="org.jf.smali.LexerTest" time="0.004"/>
+  <testcase name="CommentTest" classname="org.jf.smali.LexerTest" time="0.009"/>
+  <testcase name="InstructionTest" classname="org.jf.smali.LexerTest" time="0.006"/>
+  <testcase name="SymbolTest" classname="org.jf.smali.LexerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

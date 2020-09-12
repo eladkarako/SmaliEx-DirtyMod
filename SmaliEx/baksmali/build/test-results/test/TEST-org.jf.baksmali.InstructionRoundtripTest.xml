@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.baksmali.InstructionRoundtripTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:26" hostname="EladX220" time="0.048">
+  <properties/>
+  <testcase name="testConstMethodHandle" classname="org.jf.baksmali.InstructionRoundtripTest" time="0.039"/>
+  <testcase name="testConstMethodType" classname="org.jf.baksmali.InstructionRoundtripTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

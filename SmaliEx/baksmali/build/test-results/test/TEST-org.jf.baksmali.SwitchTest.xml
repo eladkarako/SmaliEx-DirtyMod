@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.baksmali.SwitchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:26" hostname="EladX220" time="0.021">
+  <properties/>
+  <testcase name="testUnorderedSparseSwitch" classname="org.jf.baksmali.SwitchTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

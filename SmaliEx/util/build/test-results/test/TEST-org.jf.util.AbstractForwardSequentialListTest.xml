@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.util.AbstractForwardSequentialListTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:08:51" hostname="EladX220" time="0.032">
+  <properties/>
+  <testcase name="testForwardIteration" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.009"/>
+  <testcase name="testReverseIteration" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.003"/>
+  <testcase name="testAlternatingIteration" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.0"/>
+  <testcase name="testAlternatingIteration2" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.005"/>
+  <testcase name="testNegativeIndex" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.001"/>
+  <testcase name="testForwardIterationException" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.0"/>
+  <testcase name="testForwardIterationException2" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.001"/>
+  <testcase name="testReverseIterationException" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.0"/>
+  <testcase name="testReverseIterationException2" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.001"/>
+  <testcase name="testLargeIndex" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.006"/>
+  <testcase name="testLargeIndex2" classname="org.jf.util.AbstractForwardSequentialListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

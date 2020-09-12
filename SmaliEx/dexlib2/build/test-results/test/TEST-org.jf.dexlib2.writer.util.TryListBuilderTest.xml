@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.writer.util.TryListBuilderTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:10:00" hostname="EladX220" time="0.014">
+  <properties/>
+  <testcase name="testHandlerMerge_DifferentAddress" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.003"/>
+  <testcase name="testHandlerMerge_Exception_Catchall" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testHandlerMerge_Catchall_Exception" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testHandlerMerge_Catchall_Catchall" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Hole" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testHandlerMerge_Catchall_Catchall_DifferentAddress" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testSingleCatchAll_Beginning" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testSingleCatchAll_Middle" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testSingleCatch_Beginning" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testSingleCatch_Middle" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.001"/>
+  <testcase name="testOverlap_End_After" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_After_After" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Before_Start" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Before_Before" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Start_End" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Start_Middle" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.003"/>
+  <testcase name="testOverlap_Middle_Middle" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Middle_End" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.001"/>
+  <testcase name="testOverlap_Beginning_After" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Middle_After" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Before_End" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Before_Middle" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testOverlap_Before_After" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testHandlerMerge_Same" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testHandlerMerge_DifferentType" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <testcase name="testHandlerMerge_MergeSame" classname="org.jf.dexlib2.writer.util.TryListBuilderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

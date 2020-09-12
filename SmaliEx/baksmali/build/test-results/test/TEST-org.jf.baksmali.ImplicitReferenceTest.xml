@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.baksmali.ImplicitReferenceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:25" hostname="EladX220" time="0.577">
+  <properties/>
+  <testcase name="testImplicitMethodReferences" classname="org.jf.baksmali.ImplicitReferenceTest" time="0.446"/>
+  <testcase name="testExplicitMethodReferences" classname="org.jf.baksmali.ImplicitReferenceTest" time="0.033"/>
+  <testcase name="testImplicitMethodLiterals" classname="org.jf.baksmali.ImplicitReferenceTest" time="0.039"/>
+  <testcase name="testExplicitMethodLiterals" classname="org.jf.baksmali.ImplicitReferenceTest" time="0.016"/>
+  <testcase name="testImplicitFieldReferences" classname="org.jf.baksmali.ImplicitReferenceTest" time="0.014"/>
+  <testcase name="testExplicitFieldReferences" classname="org.jf.baksmali.ImplicitReferenceTest" time="0.012"/>
+  <testcase name="testImplicitFieldLiterals" classname="org.jf.baksmali.ImplicitReferenceTest" time="0.01"/>
+  <testcase name="testExplicitFieldLiterals" classname="org.jf.baksmali.ImplicitReferenceTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

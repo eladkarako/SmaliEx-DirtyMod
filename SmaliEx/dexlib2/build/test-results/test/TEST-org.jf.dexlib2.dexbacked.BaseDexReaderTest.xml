@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.dexbacked.BaseDexReaderTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:57" hostname="EladX220" time="0.003">
+  <properties/>
+  <testcase name="testSizedLong" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.0"/>
+  <testcase name="testSizedInt" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.0"/>
+  <testcase name="testSizedRightExtendedLongFailure" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.001"/>
+  <testcase name="testSizedIntFailure" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.001"/>
+  <testcase name="testSizedSmallUintFailure" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.0"/>
+  <testcase name="testSizedRightExtendedInt" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.0"/>
+  <testcase name="testSizedRightExtendedIntFailure" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.0"/>
+  <testcase name="testSizedRightExtendedLong" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.0"/>
+  <testcase name="testSizedLongFailure" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.0"/>
+  <testcase name="testSizedSmallUint" classname="org.jf.dexlib2.dexbacked.BaseDexReaderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

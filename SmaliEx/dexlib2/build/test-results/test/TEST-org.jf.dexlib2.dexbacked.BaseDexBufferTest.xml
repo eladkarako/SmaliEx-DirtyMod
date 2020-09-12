@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.dexbacked.BaseDexBufferTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:57" hostname="EladX220" time="0.28">
+  <properties/>
+  <testcase name="testReadUshort" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadUbyte" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadLong" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.001"/>
+  <testcase name="testReadInt" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadShort" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadByte" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadRandom" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.267"/>
+  <testcase name="testReadSmallUintSuccess" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadSmallUintTooLarge1" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.001"/>
+  <testcase name="testReadSmallUintTooLarge2" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadSmallUintTooLarge3" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadOptionalUintSuccess" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.001"/>
+  <testcase name="testReadOptionalUintTooLarge1" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadOptionalUintTooLarge2" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadOptionalUintTooLarge3" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.0"/>
+  <testcase name="testReadLongRandom" classname="org.jf.dexlib2.dexbacked.BaseDexBufferTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

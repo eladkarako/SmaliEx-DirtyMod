@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.writer.CallSiteTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:58" hostname="EladX220" time="0.073">
+  <properties/>
+  <testcase name="testBuilderCallSite" classname="org.jf.dexlib2.writer.CallSiteTest" time="0.068"/>
+  <testcase name="testPoolCallSite" classname="org.jf.dexlib2.writer.CallSiteTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

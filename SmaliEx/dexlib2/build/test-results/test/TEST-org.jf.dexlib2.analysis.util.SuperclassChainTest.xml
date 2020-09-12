@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.analysis.util.SuperclassChainTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:57" hostname="EladX220" time="0.015">
+  <properties/>
+  <testcase name="testGetSuperclassChain_Unresolved" classname="org.jf.dexlib2.analysis.util.SuperclassChainTest" time="0.008"/>
+  <testcase name="testGetSuperclassChain" classname="org.jf.dexlib2.analysis.util.SuperclassChainTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.dexlib2.DexEntryFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:57" hostname="EladX220" time="0.193">
+  <properties/>
+  <testcase name="testNormalStuff" classname="org.jf.dexlib2.DexEntryFinderTest" time="0.191"/>
+  <testcase name="testSimilarEntries" classname="org.jf.dexlib2.DexEntryFinderTest" time="0.001"/>
+  <testcase name="testMatchingSuffix" classname="org.jf.dexlib2.DexEntryFinderTest" time="0.0"/>
+  <testcase name="testNonDexEntries" classname="org.jf.dexlib2.DexEntryFinderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

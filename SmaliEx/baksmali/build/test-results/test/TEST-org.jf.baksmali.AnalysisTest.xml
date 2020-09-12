@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jf.baksmali.AnalysisTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-09-12T12:09:23" hostname="EladX220" time="1.624">
+  <properties/>
+  <testcase name="UninitRefIdentityTest" classname="org.jf.baksmali.AnalysisTest" time="1.155"/>
+  <testcase name="MultipleStartInstructionsTest" classname="org.jf.baksmali.AnalysisTest" time="0.085"/>
+  <testcase name="RegisterEqualityOnMergeTest" classname="org.jf.baksmali.AnalysisTest" time="0.117"/>
+  <testcase name="ConstructorTest" classname="org.jf.baksmali.AnalysisTest" time="0.064"/>
+  <testcase name="InstanceOfTest" classname="org.jf.baksmali.AnalysisTest" time="0.055"/>
+  <testcase name="DuplicateTest" classname="org.jf.baksmali.AnalysisTest" time="0.038"/>
+  <testcase name="LocalTest" classname="org.jf.baksmali.AnalysisTest" time="0.109"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Duplicate direct+virtual method found: LDuplicateDirectVirtualMethods;->blah()V
+You will need to rename one of these methods, including all references.
+Ignoring duplicate field: LDuplicateInstanceFields;->blah:I
+Ignoring duplicate field: LDuplicateStaticFields;->blah:I
+Ignoring duplicate field: LDuplicateStaticInstanceFields;->blah:I
+Duplicate static+instance field found: LDuplicateStaticInstanceFields;->blah:I
+You will need to rename one of these fields, including all references.
+Ignoring duplicate field: LDuplicateStaticInstanceFields;->blah:I
+]]></system-err>
+</testsuite>
